@@ -2,11 +2,11 @@
 
 This matlab pseudo code is for "Nighttime image dehazing with variational model"
 
-Requirements
+# Requirements
 
 Matlab R2020b
 
-Usage
+# Usage
 
 Put the test image in data directory. The images in the directory are from these sources.
 
