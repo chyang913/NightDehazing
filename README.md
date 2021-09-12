@@ -11,4 +11,5 @@ J. Zhang, Y. Cao, S. Fang, Y. Kang and C. W. Chen, “Fast Haze Removal for Nigh
 J. Zhang, Y. Cao, Z. J. Zha, and D. Tao, “Nighttime Dehazing with a Synthetic Benchmark,” in Proceedings of the 28th ACM International Conference on Multimedia (MM ’20). Association for Computing Machinery, New York, NY, USA,pp. 2355–2363.
 
 Run 'demo.m'.
+
 Results will be generated in the output directory.
