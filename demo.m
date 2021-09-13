@@ -1,6 +1,6 @@
 clc; clear all; close all;
 
-img = im2double(imread('data/070.png'));
+img = im2double(imread('data/070.jpg'));
 
 param.gamma = 0.5 ;
 param.sky = true ;
