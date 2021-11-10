@@ -1,4 +1,4 @@
-# Night_dehazing
+# NightDehazing
 
 This matlab pseudo code is for "Variation-based Nighttime Image Dehazing Flow with Emphases on Halo Suppression and Color Preservation"
 
