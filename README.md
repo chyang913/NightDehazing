@@ -1,6 +1,9 @@
 # NightDehazing
 
-This matlab code is for "Variation-based Nighttime Image Dehazing Flow with Emphases on Halo Suppression and Color Preservation".
+This matlab code is for "A Variation-based Nighttime Image
+Dehazing Flow with a Physically Valid
+Illumination Estimator and a
+Luminance-Guided Coloring Model".
 
 # Requirements
 
