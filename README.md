@@ -1,6 +1,7 @@
 # NightDehazing
 
 This matlab code is for the following paper : 
+
 C. -H. Yang, Y. -H. Lin and Y. -C. Lu, "A Variation-Based Nighttime Image Dehazing Flow With a Physically Valid Illumination Estimator and a Luminance-Guided Coloring Model," in IEEE Access, vol. 10, pp. 50153-50166, 2022.
 
 # Requirements
