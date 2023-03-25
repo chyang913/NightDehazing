@@ -7,4 +7,4 @@ J. Zhang, Y. Cao, S. Fang, Y. Kang and C. W. Chen, “Fast Haze Removal for Nigh
 J. Zhang, Y. Cao, Z. J. Zha, and D. Tao, “Nighttime Dehazing with a Synthetic Benchmark,” in Proceedings of the 28th ACM International Conference on Multimedia (MM ’20). Association for Computing Machinery, New York, NY, USA, 2020, pp. 2355–2363.
 
 3. dataset3
-B. Li et al., "Benchmarking Single-Image Dehazing and Beyond," in IEEE Transactions on Image Processing, vol. 28, no. 1, pp. 492-505, Jan. 2019,
+B. Li et al., "Benchmarking Single-Image Dehazing and Beyond," in IEEE Transactions on Image Processing, vol. 28, no. 1, pp. 492-505, Jan. 2019.
