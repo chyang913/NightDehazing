@@ -4,7 +4,7 @@ This matlab code is for the following paper :
 
 C. -H. Yang, Y. -H. Lin and Y. -C. Lu, "A Variation-Based Nighttime Image Dehazing Flow With a Physically Valid Illumination Estimator and a Luminance-Guided Coloring Model," in IEEE Access, vol. 10, pp. 50153-50166, 2022. 
 
-(The dataset of 250 images used in the paper is placed in the `dataset` directory.)
+(The dataset used in this paper is placed in the `dataset` directory.)
 
 # Requirements
 
